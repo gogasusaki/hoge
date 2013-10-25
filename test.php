@@ -1,3 +1,3 @@
 <?php
-echo "OKゴーガ\n";
+echo "OK,GOGA\n";
 ?>
